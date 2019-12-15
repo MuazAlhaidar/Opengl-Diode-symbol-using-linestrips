@@ -1,0 +1,1 @@
+# Opengl-Diode-symbol-using-linestrips
